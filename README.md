@@ -1,4 +1,4 @@
-# ScreenReader Instructions
+# ScreenReader
 
 ### Notes
 
