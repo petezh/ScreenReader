@@ -1,5 +1,4 @@
-Sub CopyForScreenReader()
-    
+
     Dim p
     Dim pCount As Long
 
@@ -70,5 +69,4 @@ Skip:
     ActiveDocument.ShowGrammaticalErrors = False
     ActiveDocument.ShowSpellingErrors = False
 
-End Sub
 
