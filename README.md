@@ -1,13 +1,20 @@
 # ScreenReader
 
-### Notes
+This is a VBA macro to convert Verbatim speech documents to a screen-reader accessible format. Please see the usage notes!
 
-1. This is intended to convert debate speech documents to a format accessible to screen readers. Please note that it is in development and may cause issues on non-Windows systems. Please report any issues to thepeterszhang@gmail.com
+### Usage Notes
 
-2. The Macro will convert the current file that is open. It is recommended that users open a new Word document and paste in the content they wish to convert before running the macro.
+1. The macro is in development and may cause issues on non-Windows systems. Please report any issues to thepeterszhang@gmail.com
+
+2. The macro will convert the current file that is open. It is recommended that users open a new Word document and paste in the content they wish to convert before running the macro.
 
 3. Should a user accidentally convert a document, they can simply undo the operation by pressing Control+Z twice.
 
+4. Make sure the following conditions are true for documents (some are less important than others):
+- Tags and analytics are all marked with "tag"
+- Card names are marked with either "tag" or "cite"
+- Parts of cards to read are delineated with highlighting
+- Section headers that should be kept in the doc are styled as "pocket", "hat", or "block"
 
 ### Macro Installation
 
