@@ -57,7 +57,7 @@ http://www.techtoolsforwriters.com/how-to-add-a-macro-to-word/
 For more information on steps 1-7, please visit:
 https://wordribbon.tips.net/T008058_Assigning_a_Macro_to_a_Shortcut_Key.html
 
-
+Thank you Xavier for developing the tool.
 
 
 
