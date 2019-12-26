@@ -1,6 +1,6 @@
 # ScreenReader
 
-This is a VBA macro to convert Verbatim speech documents to a screen-reader accessible format. Please see the usage notes!
+This is a VBA macro to convert Verbatim speech documents to a screen-reader accessible format. Please read the usage notes!
 
 ### Usage Notes
 
