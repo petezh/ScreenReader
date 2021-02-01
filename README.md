@@ -4,7 +4,7 @@ This is a VBA macro to convert Verbatim speech documents to a screen-reader acce
 
 ### Usage Notes
 
-1. The macro is in development and may cause issues on non-Windows systems. Please report any issues to thepeterszhang@gmail.com
+1. The macro is in development and may cause issues on non-Windows systems. Please report any issues to petez@berkeley.edu.
 
 2. The macro will convert the current file that is open. It is recommended that users open a new Word document and paste in the content they wish to convert before running the macro.
 
